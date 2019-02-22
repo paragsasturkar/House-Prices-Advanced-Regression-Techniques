@@ -1,4 +1,4 @@
-## My approach for the Kaggle Competition - House Prices: Advanced Regression Techniques 
+#### My approach for the Kaggle Competition - House Prices: Advanced Regression Techniques 
 
 
 Data can be found at https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
